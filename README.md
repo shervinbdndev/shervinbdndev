@@ -13,6 +13,9 @@
 <h2><b>Certificates</b></h2>
 
 <img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/PythonCore_certificate.jpg" width="700" height="500"></img>
+<img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Intermediate_Python_certificate.jpg" width="700" height="500"></img>
+<img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Python_certificate.jpg" width="700" height="500"></img>
+<img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Python-for-Beginners_certificate.jpg" width="700" height="500"></img>
 
 
 <h2><b>Socials</b></h2>
