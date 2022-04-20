@@ -12,7 +12,7 @@
 
 <h2><b>Certificates</b></h2>
 
-<img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/PythonCore_certificate.jpg" width="200"></img>
+<img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/PythonCore_certificate.jpg" width="700" height="500"></img>
 
 
 <h2><b>Socials</b></h2>
