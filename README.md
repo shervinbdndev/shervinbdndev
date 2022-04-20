@@ -4,6 +4,11 @@
 <h3>I'm an Iranian Programmer And I Use Python for my Main Programming Language.</h3><br>
 </div>
 
+- 🔭 I’m currently working on Improving My Skills 
+- 🌱 I’m currently learning Python and Dart 
+- 👯 I’m looking to collaborate on Companies & Teams 
+- 📫 How to reach me: Gmail : shervin2234@gmail.com 
+
 
 <div align="center">
 <br>
