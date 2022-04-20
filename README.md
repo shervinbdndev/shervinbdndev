@@ -6,10 +6,10 @@
 
 <div align="center">
 <h3>
-    🔭 I’m currently working on Improving My Skills<br>
-    🌱 I’m currently learning Python and Dart <br>
-    👯 I’m looking to collaborate on Companies & Teams <br>
-    📫 How to reach me: shervin2234@gmail.com 
+    <b>🔭 I’m currently :</b> Improving My Skills<br>
+    <b>🌱 I’m currently :</b> learning Python and Dart <br>
+    <b>👯 I’m looking to :</b> collaborate on Companies & Teams <br>
+    <b>📫 How to reach me :</b> shervin2234@gmail.com 
 </h3>
 
 # Certificates
