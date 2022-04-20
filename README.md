@@ -5,12 +5,14 @@
 </div>
 
 <div align="center">
-<h3>
-    <b>🔭 I’m currently :</b> Improving My Skills<br>
-    <b>🌱 I’m currently :</b> learning Python and Dart <br>
-    <b>👯 I’m looking to :</b> collaborate on Companies & Teams <br>
-    <b>📫 How to reach me :</b> shervin2234@gmail.com 
-</h3>
+<div align="left">
+    <h3>
+        <b>🔭 I’m currently :</b> Improving My Skills<br>
+        <b>🌱 I’m currently :</b> learning Python and Dart <br>
+        <b>👯 I’m looking to :</b> collaborate on Companies & Teams <br>
+        <b>📫 How to reach me :</b> shervin2234@gmail.com 
+    </h3>
+</div>
 
 # Certificates
 
