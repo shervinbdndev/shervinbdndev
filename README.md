@@ -10,7 +10,7 @@
 <div align="center">
 <br>
 
-<h2><b>Certificates</b></h2>
+# Certificates
 
 <img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/PythonCore_certificate.jpg" width="700" height="500"></img>
 <img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Intermediate_Python_certificate.jpg" width="700" height="500"></img>
