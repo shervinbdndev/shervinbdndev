@@ -6,12 +6,12 @@
 
 <div align="center">
 <br>
-
-- 🔭 I’m currently working on Improving My Skills 
-- 🌱 I’m currently learning Python and Dart 
-- 👯 I’m looking to collaborate on Companies & Teams 
-- 📫 How to reach me: Gmail : shervin2234@gmail.com 
-
+<h2>
+    🔭 I’m currently working on Improving My Skills 
+    🌱 I’m currently learning Python and Dart 
+    👯 I’m looking to collaborate on Companies & Teams 
+    📫 How to reach me: shervin2234@gmail.com 
+</h2>
 
 # Certificates
 
