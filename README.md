@@ -1,17 +1,16 @@
 <h1 align="center"><b>Hi there 👋, I'm Shervin</b></h1>
 
 <div align="center"><h2><b>About Me</b></h2><br>
-<h3>I'm an Iranian Programmer And I Use Python for my Main Programming Language.</h3><br>
+<h3>I'm an Iranian Programmer And I Use Python for my Main Programming Language.</h3>
 </div>
 
 <div align="center">
-<br>
-<h4>
+<h3>
     🔭 I’m currently working on Improving My Skills<br>
     🌱 I’m currently learning Python and Dart <br>
     👯 I’m looking to collaborate on Companies & Teams <br>
     📫 How to reach me: shervin2234@gmail.com 
-</h4>
+</h3>
 
 # Certificates
 
