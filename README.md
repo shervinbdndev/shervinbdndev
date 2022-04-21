@@ -90,9 +90,9 @@
 <h1><b>Top Languages & Github Stats</b></h1>
 
 <div style="display: flex;grid-template-columns: repeat(4, 1fr);width:100%;">
-<img style="float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shervinbdndev"></img>
-<img style="float:right" src="https://github-readme-stats.vercel.app/api?username=shervinbdndev&show_icons=true&count_private=true"></img>
-
+    <img style="float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shervinbdndev"></img>
+    <p>Status</p>
+    <img style="float:right" src="https://github-readme-stats.vercel.app/api?username=shervinbdndev&show_icons=true&count_private=true"></img>
 </div>
 
 <br>
