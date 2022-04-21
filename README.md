@@ -1,10 +1,10 @@
 <h1 align="center"><b>Hi there 👋, I'm Shervin</b></h1>
 
-<div align="center"><h2><b>About Me</b></h2><br>
-<h3>I'm an Iranian Programmer And I Use Python for my Main Programming Language.</h3>
+<div align="left"><h1><b>About Me</b></h1>
+<h3>I'm an Iranian Programmer.Something about 4 years Of coding and learning 12 different programming Languages, Finally I Chose Python as my Main Programming Language.</h3><br>
 </div>
 
-<div align="center">
+<div align="left">
 <div align="left">
     <h3>
         <b>🔭 I’m currently :</b> Improving My Skills<br>
@@ -14,50 +14,58 @@
     </h3>
 </div>
 
-# Certificates
+<br><br>
+<h1><b>Certificates</b></h1>
 
-<a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/PythonCore_certificate.jpg"></a>
-<a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Intermediate_Python_certificate.jpg"></a>
-<a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Python_certificate.jpg"></a>
-<a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Python-for-Beginners_certificate.jpg"></a>
-<a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/HTML_certificate.jpg"></a>
-<a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/CSS_certificate.jpg"></a>
-<a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/SQL_certificate.jpg"></a>
-
+<div align="left">
+    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/PythonCore_certificate.jpg"><b>Certificate : Python Core</b></a><br>
+    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Intermediate_Python_certificate.jpg"><b>Certificate : Intermediate Python</b></a><br>
+    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Python_certificate.jpg"><b>Certificate : Python3 Tutorial Course</b></a><br>
+    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Python-for-Beginners_certificate.jpg"><b>Certificate : Python For Beginners</b></a><br>
+    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/HTML_certificate.jpg"><b>Certificate : HTML Course</b></a><br>
+    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/CSS_certificate.jpg"><b>Certificate : CSS Course</b></a><br>
+    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/SQL_certificate.jpg"><b>Certificate : SQL</b></a>
+</div>
 
 <br>
 
-# Socials
+<br>
+<h1><b>Socials</b></h1>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shervinbdndev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shervin.bdn/)  
 
 <br>
 
-# Badges
+<br>
+<h1><b>Badges</b></h1>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 <br>
 
-# Github Achievements
+<br>
+<h1><b>Github Achievements</b></h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shervinbdndev)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
-# Top Languages
+<br>
+<h1><b>Top Languages</b></h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shervinbdndev)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-# Github Status
+<br>
+<h1><b>Github Status</b></h1>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shervinbdndev&show_icons=true&count_private=true)  
 
 <br>
 
-# Activity Graph
+<br>
+<h1><b>Activity Graph</b></h1>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shervinbdndev)  
 
@@ -65,7 +73,8 @@
 
 <br>
 
-# Streak Status
+<br>
+<h1><b>Streak Status</b></h1>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shervinbdndev)  
 
