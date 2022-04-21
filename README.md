@@ -1,6 +1,12 @@
 <h1 align="center"><b>Hi there 👋, I'm Shervin</b></h1> 
 
+<div align="center">
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=txhca6drbj4df9d4jut0awi2h&cover_image=true&theme=default&bar_color_cover=true" /></div>
+
 ![Profile views](https://gpvc.arturio.dev/shervinbdndev)  
+
+</div>
 
 <div align="left"><h1><b>About Me</b></h1>
 <h3>I'm an Iranian Programmer.Something about 4 years Of coding and learning 12 different programming Languages, Finally I Chose Python as my Main Programming Language.</h3><br>
