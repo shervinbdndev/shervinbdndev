@@ -4,14 +4,16 @@
 
 <div align="center"><img src="" /></div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=txhca6drbj4df9d4jut0awi2h&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
 ![Profile views](https://gpvc.arturio.dev/shervinbdndev)  
 
 </div>
 
-<div align="left"><h1><b>About Me</b></h1>
-<h3>I'm an Iranian Programmer.Something about 4 years Of coding and learning 12 different programming Languages, Finally I Chose Python as my Main Programming Language.</h3><br>
+<br>
+<br>
+<div align="center"><h1><b>About Me</b></h1>
+    <div align="left">
+        <h3>I'm an Iranian Programmer.Something about 4 years Of coding and learning 12 different programming Languages, Finally I Chose Python as my Main Programming Language.</h3><br>
+    </div>
 </div>
 
 <div align="left">
@@ -25,7 +27,7 @@
 </div>
 
 <br><br>
-<h1><b>Certificates</b></h1>
+<h1 align="left"><b>Certificates</b></h1>
 
 <div align="left">
     <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/PythonCore_certificate.jpg"><b>Certificate : Python Core</b></a><br>
@@ -47,7 +49,7 @@
 <br>
 
 
-<h1><b>Skills</b></h1>
+<h1 align="left"><b>Skills</b></h1>
 
 <img src="https://img.icons8.com/color/48/000000/python.png"  width="40" height="40"/>
 <img src="https://img.icons8.com/material/48/0C4B33/django.png"   width="40" height="40"/>
@@ -87,28 +89,28 @@
 <br>
 
 <br>
-<h1><b>Socials</b></h1>
+<h1 align="left"><b>Socials</b></h1>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shervinbdndev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shervin.bdn/)  
 
 <br>
 
 <br>
-<h1><b>Badges</b></h1>
+<h1 align="left"><b>Badges</b></h1>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 <br>
 
 <br>
-<h1><b>Github Achievements</b></h1>
+<h1 align="center"><b>Github Achievements</b></h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shervinbdndev)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
 <br>
-<h1><b>Top Languages & Github Stats</b></h1>
+<h1 align="center"><b>Top Languages & Github Stats</b></h1>
 
 <div style="display: flex;grid-template-columns: repeat(4, 1fr);width:100%;">
     <img style="float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shervinbdndev"></img>
@@ -118,7 +120,7 @@
 <br>
 
 <br>
-<h1><b>Activity Graph</b></h1>
+<h1 align="center"><b>Activity Graph</b></h1>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shervinbdndev)  
 
@@ -127,7 +129,7 @@
 <br>
 
 <br>
-<h1><b>Streak Status</b></h1>
+<h1 align="center"><b>Streak Status</b></h1>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shervinbdndev)  
 
