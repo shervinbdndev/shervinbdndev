@@ -21,12 +21,17 @@
     <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/PythonCore_certificate.jpg"><b>Certificate : Python Core</b></a><br>
     <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Intermediate_Python_certificate.jpg"><b>Certificate : Intermediate Python</b></a><br>
     <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Python_certificate.jpg"><b>Certificate : Python3 Tutorial Course</b></a><br>
+    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/pyadv.jpg"><b>Certificate : Python Advanced Course</b></a><br>
     <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Python-for-Beginners_certificate.jpg"><b>Certificate : Python For Beginners</b></a><br>
     <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/HTML_certificate.jpg"><b>Certificate : HTML Course</b></a><br>
     <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/CSS_certificate.jpg"><b>Certificate : CSS Course</b></a><br>
     <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/SQL_certificate.jpg"><b>Certificate : SQL</b></a><br>
+    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/bawcc.jpg"><b>Certificate : Building a Website Course</b></a><br>
     <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/web_frontend_course_plstr.jpg"><b>Certificate : Poulstar Institute _ Web Frontend Course</b></a><br>
-    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/database_course_plstr.jpg"><b>Certificate : Poulstar Institute _ Database Course</b></a>
+    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/database_course_plstr.jpg"><b>Certificate : Poulstar Institute _ Database Course</b></a><br>
+    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/cccc.jpg"><b>Certificate : Cyber Security Course</b></a><br>
+    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/ehcc.jpg"><b>Certificate : Ethical Hacking Course</b></a><br>
+    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/hadvcc.jpg"><b>Certificate : Hacking Advanced Course</b></a>
 </div>
 <br>
 <br>
