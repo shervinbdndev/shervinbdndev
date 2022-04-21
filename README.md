@@ -1,4 +1,6 @@
-<h1 align="center"><b>Hi there 👋, I'm Shervin</b></h1>
+<h1 align="center"><b>Hi there 👋, I'm Shervin</b></h1> 
+
+![Profile views](https://gpvc.arturio.dev/shervinbdndev)  
 
 <div align="left"><h1><b>About Me</b></h1>
 <h3>I'm an Iranian Programmer.Something about 4 years Of coding and learning 12 different programming Languages, Finally I Chose Python as my Main Programming Language.</h3><br>
@@ -87,11 +89,9 @@
 <br>
 <h1><b>Top Languages & Github Stats</b></h1>
 
-<div class="row">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shervinbdndev)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shervinbdndev&show_icons=true&count_private=true)
+<div style="display: flex;grid-template-columns: repeat(4, 1fr);width:100%;">
+<img style="float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shervinbdndev"></img>
+<img style="float:right" src="https://github-readme-stats.vercel.app/api?username=shervinbdndev&show_icons=true&count_private=true"></img>
 
 </div>
 
@@ -110,8 +110,5 @@
 <h1><b>Streak Status</b></h1>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shervinbdndev)  
-
-![Profile views](https://gpvc.arturio.dev/shervinbdndev)  
-
 
 </div>
