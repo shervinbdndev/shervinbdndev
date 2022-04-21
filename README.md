@@ -53,16 +53,15 @@
 <br>
 
 <br>
-<h1><b>Top Languages</b></h1>
+<h1><b>Top Languages & Github Stats</b></h1>
+
+<div class="row">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shervinbdndev)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shervinbdndev&show_icons=true&count_private=true)
 
-<br>
-<h1><b>Github Status</b></h1>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shervinbdndev&show_icons=true&count_private=true)  
+</div>
 
 <br>
 
