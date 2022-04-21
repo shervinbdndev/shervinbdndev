@@ -28,6 +28,33 @@
     <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/web_frontend_course_plstr.jpg"><b>Certificate : Poulstar Institute _ Web Frontend Course</b></a><br>
     <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/database_course_plstr.jpg"><b>Certificate : Poulstar Institute _ Database Course</b></a>
 </div>
+<br>
+<br>
+
+
+<h1><b>Skills</b></h1>
+
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/material/48/0C4B33/django.png"/>
+<img src="https://img.icons8.com/material-two-tone/48/000000/api-settings.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png">
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/postgresql.png">
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/gitlab.png">
+<img src="https://img.icons8.com/color/48/000000/github.png">
+<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png">
+<img src="https://img.icons8.com/color/48/000000/dart.png">
+<img src="https://img.icons8.com/color/48/000000/java.png">
+<img src="https://img.icons8.com/color/48/000000/xml.png">
+<img src="https://img.icons8.com/color/48/000000/android-studio.png">
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/kali-linux.png">
 
 <br>
 
