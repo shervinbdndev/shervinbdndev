@@ -24,8 +24,8 @@
     <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Python-for-Beginners_certificate.jpg"><b>Certificate : Python For Beginners</b></a><br>
     <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/HTML_certificate.jpg"><b>Certificate : HTML Course</b></a><br>
     <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/CSS_certificate.jpg"><b>Certificate : CSS Course</b></a><br>
-    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/SQL_certificate.jpg"><b>Certificate : SQL</b></a>
-    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/web_frontend_course_plstr.jpg"><b>Certificate : Poulstar Institute _ Web Frontend Course</b></a>
+    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/SQL_certificate.jpg"><b>Certificate : SQL</b></a><br>
+    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/web_frontend_course_plstr.jpg"><b>Certificate : Poulstar Institute _ Web Frontend Course</b></a><br>
     <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/database_course_plstr.jpg"><b>Certificate : Poulstar Institute _ Database Course</b></a>
 </div>
 
