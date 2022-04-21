@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=txhca6drbj4df9d4jut0awi2h&cover_image=true&theme=default&bar_color_cover=true" /></div>
+<div align="center"><img src="" /></div>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=txhca6drbj4df9d4jut0awi2h&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ![Profile views](https://gpvc.arturio.dev/shervinbdndev)  
 
