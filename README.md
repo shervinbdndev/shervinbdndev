@@ -16,13 +16,13 @@
 
 # Certificates
 
-<img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/PythonCore_certificate.jpg" width="500" height="350"></img>
-<img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Intermediate_Python_certificate.jpg" width="500" height="350"></img>
-<img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Python_certificate.jpg" width="500" height="350"></img>
-<img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Python-for-Beginners_certificate.jpg" width="500" height="350"></img>
-<img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/HTML_certificate.jpg" width="500" height="350"></img>
-<img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/CSS_certificate.jpg" width="500" height="350"></img>
-<img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/SQL_certificate.jpg" width="500" height="350"></img>
+<img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/PythonCore_certificate.jpg" width="700" height="500"></img>
+<img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Intermediate_Python_certificate.jpg" width="700" height="500"></img>
+<img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Python_certificate.jpg" width="700" height="500"></img>
+<img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/Python-for-Beginners_certificate.jpg" width="700" height="500"></img>
+<img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/HTML_certificate.jpg" width="700" height="500"></img>
+<img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/CSS_certificate.jpg" width="700" height="500"></img>
+<img src="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/SQL_certificate.jpg" width="700" height="500"></img>
 
 
 <br>
