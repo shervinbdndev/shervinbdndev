@@ -41,38 +41,40 @@
 
 <h1><b>Skills</b></h1>
 
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/material/48/0C4B33/django.png"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"  width="40" height="40"/>
+<img src="https://img.icons8.com/material/48/0C4B33/django.png"   width="40" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/flask.png"  width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"   width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-<img src="https://img.icons8.com/material-two-tone/48/000000/api-settings.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png">
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/postgresql.png">
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/000000/gitlab.png">
-<img src="https://img.icons8.com/color/48/000000/github.png">
-<img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img src="https://img.icons8.com/color/48/000000/flutter.png">
-<img src="https://img.icons8.com/color/48/000000/dart.png">
-<img src="https://img.icons8.com/color/48/000000/java.png">
-<img src="https://img.icons8.com/color/48/000000/xml.png">
-<img src="https://img.icons8.com/color/48/000000/android-studio.png">
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/kali-linux.png">
+<img src="https://img.icons8.com/material-two-tone/48/000000/api-settings.png"   width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"   width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"   width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"   width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"   width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"   width="40" height="40">
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"   width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/postgresql.png  " width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"   width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/gitlab.png  " width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/github.png  " width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/pycharm.png"   width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png  " width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/dart.png" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/java.png" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/xml.png" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/android-studio.png" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"   width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"   width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/kali-linux.png  " width="40" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/powershell.png" width="40" height="40"  />  
+<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"   width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"   width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"   width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"   width="40" height="40"/>
 
 <br>
 
