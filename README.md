@@ -43,6 +43,9 @@
 
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/material/48/0C4B33/django.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 <img src="https://img.icons8.com/material-two-tone/48/000000/api-settings.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -62,6 +65,14 @@
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/kali-linux.png">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 
 <br>
 
