@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<div align="center"><img src="" /></div>
+<!-- <div align="center"><img src="" /></div> -->
 
 ![Profile views](https://gpvc.arturio.dev/shervinbdndev)  
 
