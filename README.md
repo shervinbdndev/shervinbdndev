@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<div align="center" style="display: flex;grid-template-columns: repeat(4, 1fr);text-indent:5px">
+<div align="center" style="display: flex;text-indent:10px">
     <img src="https://gpvc.arturio.dev/shervinbdndev" />
     <img src="https://img.shields.io/github/followers/shervinbdndev.svg?style=social&label=Follow&maxAge=2592000" />
     <img src="https://img.shields.io/github/stars/shervinbdndev/shervinbdndev.svg">
