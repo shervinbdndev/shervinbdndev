@@ -2,9 +2,10 @@
 
 <div align="center">
 
-<!-- <div align="center"><img src="" /></div> -->
-
-![Profile views](https://gpvc.arturio.dev/shervinbdndev)  
+<div align="left">
+    <img width="150px" src="https://gpvc.arturio.dev/shervinbdndev" />
+    <img width="150px" src="https://forthebadge.com/images/badges/uses-html.svg" />
+</div>
 
 </div>
 
