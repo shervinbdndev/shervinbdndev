@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<div align="left">
+<div align="center">
     <img width="150px" src="https://gpvc.arturio.dev/shervinbdndev" />
-    <img width="150px" src="https://forthebadge.com/images/badges/uses-html.svg" />
+    <img width="150px" src="" />
 </div>
 
 </div>
@@ -25,6 +25,41 @@
         <b>👯 I’m looking to :</b> collaborate on Companies & Teams <br>
         <b>📫 How to reach me :</b> shervin2234@gmail.com 
     </h3>
+</div>
+
+<br>
+<br>
+
+<h1 align="center"><b>Socials</b></h1>
+
+<div style="display: flex;grid-template-columns: repeat(4, 1fr);width:100%;text-indent:5px">
+    <a href="https://wa.me/09011315500">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img>
+    </a>
+    <a href="https://t.me/shervinbdndev">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img>
+    </a>
+    <a href="https://instagram.com/shervin.bdn">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
+    </a>
+    <a href="https://discordapp.com/users/966742232369618954/">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img>
+    </a>
+    <a href="https://github.com/shervinbdndev/">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
+    </a>
+    <a href="mailto:shervin2234@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+    </a>
+    <a href="mailto:shervin2234@protonmail.com">
+        <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+    </a>
+    <a href="https://stackoverflow.com/users/17452426/shervin-bdn">
+        <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></img>
+    </a>
+    <a href="https://steamcommunity.com/id/shervinbdn/">
+        <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+    </a>
 </div>
 
 <br><br>
@@ -50,7 +85,7 @@
 <br>
 
 
-<h1 align="left"><b>Skills</b></h1>
+<h1 align="center"><b>Skills</b></h1>
 
 <img src="https://img.icons8.com/color/48/000000/python.png"  width="40" height="40"/>
 <img src="https://img.icons8.com/material/48/0C4B33/django.png"   width="40" height="40"/>
@@ -90,13 +125,6 @@
 <br>
 
 <br>
-<h1 align="left"><b>Socials</b></h1>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shervinbdndev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shervin.bdn/)  
-
-<br>
-
-<br>
 <h1 align="left"><b>Badges</b></h1>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
@@ -106,7 +134,11 @@
 <br>
 <h1 align="center"><b>Github Achievements</b></h1>
 
+<div>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=shervinbdndev)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 <br>
 
