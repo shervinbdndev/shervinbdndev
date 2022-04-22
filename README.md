@@ -78,9 +78,9 @@
     <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/bawcc.jpg"><b>Certificate : Building a Website Course</b></a><br>
     <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/web_frontend_course_plstr.jpg"><b>Certificate : Poulstar Institute _ Web Frontend Course</b></a><br>
     <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/database_course_plstr.jpg"><b>Certificate : Poulstar Institute _ Database Course</b></a><br>
-    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/cccc.jpg"><b>Certificate : Cyber Security Course</b></a><br>
-    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/ehcc.jpg"><b>Certificate : Ethical Hacking Course</b></a><br>
-    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/hadvcc.jpg"><b>Certificate : Hacking Advanced Course</b></a>
+    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/CyberSecurity%403x.jpg"><b>Certificate : Cyber Security Course</b></a><br>
+    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/EthicalHacking%403x.jpg"><b>Certificate : Ethical Hacking Course</b></a><br>
+    <a href="https://github.com/shervinbdndev/shervinbdndev/blob/master/Certificates/AdvHacking%403x.jpg"><b>Certificate : Hacking Advanced Course</b></a>
 </div>
 <br>
 <br>
