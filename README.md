@@ -43,9 +43,6 @@
     <a href="linkedin.com/in/shervin-badanara-285128196">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
     </a>
-    <a href="https://instagram.com/shervin.bdn">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
-    </a>
     <a href="https://discordapp.com/users/966742232369618954/">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img>
     </a>
