@@ -179,7 +179,8 @@
 <br>
 <h1 align="center"><b>Streak Status</b></h1>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shervinbdndev)  
+  
+<img align="center" alt="Coding" src="https://github-readme-streak-stats.herokuapp.com/?user=shervinbdndev">
 
 <img align="center" alt="Coding" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/26d25a7dc705c50943f66aef6beb431253a93cd5/github-contribution-grid-snake.svg">
 
