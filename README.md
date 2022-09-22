@@ -1,3 +1,7 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=15F74B&width=435&lines=Hi+there%2C;Im+Shervin+Badanara;Im+a+Software+Developer" alt="Typing SVG" /></a>
+
+<br>
+
 <h1 align="center"><b>Hi there 👋, I'm Shervin</b></h1> 
 
 <div align="center">
