@@ -177,14 +177,4 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shervinbdndev)  
 
-<details close="true">
-  <summary><b>:gear: &nbsp;More Git Statics</b></summary>
- 
-  <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=shervinbdndev&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shervinbdndev&hide=html&layout=compact&theme=highcontrast" />
- </div>
- 
- </details>
-
 </div>
