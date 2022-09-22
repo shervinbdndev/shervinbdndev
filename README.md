@@ -1,5 +1,6 @@
 <div align='center'>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=15F74B&width=435&lines=Hi+there%2C;Im+Shervin+Badanara;Im+a+Software+Developer" alt="Typing SVG" /></a>
+    <br>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=15F74B&center=true&vCenter=true&width=435&lines=%D8%B3%D9%84%D8%A7%D9%85;%D9%85%D9%86+%D8%B4%D8%B1%D9%88%DB%8C%D9%86+%D8%A8%D8%AF%D9%86+%D8%A2%D8%B1%D8%A7+%D9%87%D8%B3%D8%AA%D9%85;%DB%8C%D9%87+%D8%AA%D9%88%D8%B3%D8%B9%D9%87+%D8%AF%D9%87%D9%86%D8%AF%D9%87+%D9%86%D8%B1%D9%85+%D8%A7%D9%81%D8%B2%D8%A7%D8%B1" alt="Typing SVG" /></a>
 </div>
 
@@ -179,5 +180,7 @@
 <h1 align="center"><b>Streak Status</b></h1>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shervinbdndev)  
+
+<img align="center" alt="Coding" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/26d25a7dc705c50943f66aef6beb431253a93cd5/github-contribution-grid-snake.svg">
 
 </div>
