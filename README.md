@@ -12,6 +12,9 @@
     <img src="https://gpvc.arturio.dev/shervinbdndev" />
     <img src="https://img.shields.io/github/followers/shervinbdndev.svg?style=social&label=Follow&maxAge=2592000" />
     <img src="https://img.shields.io/github/stars/shervinbdndev/shervinbdndev.svg">
+
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 </div>
 
 </div>
@@ -169,6 +172,8 @@
 <h1 align="center"><b>Activity Graph</b></h1>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shervinbdndev)  
+
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 ![GitHub metrics](https://metrics.lecoq.io/shervinbdndev)  
 
