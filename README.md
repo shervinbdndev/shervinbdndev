@@ -15,6 +15,11 @@
 
 [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shervinbdndev/count.svg" />
+</p>
+
 </div>
 
 </div>
