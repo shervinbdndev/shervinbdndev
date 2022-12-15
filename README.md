@@ -36,7 +36,7 @@
 <div align="left">
     <h3>
         <b>🔭 I’m currently :</b> Improving My Skills<br>
-        <b>🌱 I’m currently :</b> learning Python and Dart <br>
+        <b>🌱 I’m currently :</b> Developing Mobile Applications With Flutter & Doing Some Back-end With Django <br>
         <b>👯 I’m looking to :</b> collaborate on Companies & Teams <br>
         <b>📫 How to reach me :</b> shervin2234@gmail.com 
     </h3>
@@ -44,7 +44,15 @@
 
 <br>
 <br>
+    
+| 🎁 Projects | ❓ Status | ✏️ Language | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| <a href="https://github.com/shervinbdndev/PyScriptTools.py">**PyScriptTools**</a> | **In Development** | [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square)](https://www.python.org/) | ![Stars](https://img.shields.io/github/stars/shervinbdndev/PyScriptTools.py?style=flat-square) | ![Forks](https://img.shields.io/github/forks/shervinbdndev/PyScriptTools.py?style=flat-square) | ![Issues](https://img.shields.io/github/issues/shervinbdndev/PyScriptTools.py?style=flat-square) | ![Pull Requests](https://img.shields.io/github/issues-pr/shervinbdndev/PyScriptTools.py?style=flat-square)
+| <a href="https://github.com/shervinbdndev/Finder">**Finder**</a> | **In Development** | [![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg?style=flat-square)](https://www.flutter.dev/) | ![Stars](https://img.shields.io/github/stars/shervinbdndev/Finder?style=flat-square) | ![Forks](https://img.shields.io/github/forks/shervinbdndev/Finder?style=flat-square) | ![Issues](https://img.shields.io/github/issues/shervinbdndev/Finder?style=flat-square) | ![Pull Requests](https://img.shields.io/github/issues-pr/shervinbdndev/Finder?style=flat-square)
+| <a href="https://github.com/shervinbdndev/Portfolio">**Portfolio**</a> | **In Development** | [![made-with-Flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg?style=flat-square)](https://www.flutter.dev/) | ![Stars](https://img.shields.io/github/stars/shervinbdndev/Portfolio?style=flat-square) | ![Forks](https://img.shields.io/github/forks/shervinbdndev/Portfolio?style=flat-square) | ![Issues](https://img.shields.io/github/issues/shervinbdndev/Portfolio?style=flat-square) | ![Pull Requests](https://img.shields.io/github/issues-pr/shervinbdndev/Portfolio?style=flat-square)
+| <a href="https://github.com/shervinbdndev/SendResume-Django">**SendResume-Django**</a> | **Stable** | [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square)](https://www.python.org/) | ![Stars](https://img.shields.io/github/stars/shervinbdndev/SendResume-Django?style=flat-square) | ![Forks](https://img.shields.io/github/forks/shervinbdndev/SendResume-Django?style=flat-square) | ![Issues](https://img.shields.io/github/issues/shervinbdndev/SendResume-Django?style=flat-square) | ![Pull Requests](https://img.shields.io/github/issues-pr/shervinbdndev/SendResume-Django?style=flat-square)
 
+ <br><br>
 <h1 align="center"><b>Socials</b></h1>
 
 <div style="display: flex;grid-template-columns: repeat(4, 1fr);width:100%;text-indent:5px">
