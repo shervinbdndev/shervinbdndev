@@ -136,14 +136,12 @@
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"   width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"   width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/pycharm.png"   width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/flutter.png  " width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/dart.png" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/java.png" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/xml.png" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/android-studio.png" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"   width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"   width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/kali-linux.png  " width="40" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" width="40" height="40"  />  
 <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
