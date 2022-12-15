@@ -134,10 +134,7 @@
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"   width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"   width="40" height="40">
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"   width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/postgresql.png  " width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"   width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/gitlab.png  " width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/github.png  " width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/pycharm.png"   width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/flutter.png  " width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/dart.png" width="40" height="40"/>
