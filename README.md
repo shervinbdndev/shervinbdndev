@@ -45,7 +45,7 @@
 <br>
 <br>
     
-| 🎁 Projects | ❓ Status | ✏️ Language / 🪟 Framework | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests |
+| 🎁 Projects | ❓ Status | ✏️ Language 🪟 Framework | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | <a href="https://github.com/shervinbdndev/PyScriptTools.py">**PyScriptTools.py**</a> | **In Development** | [![made-with-python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) | ![Stars](https://img.shields.io/github/stars/shervinbdndev/PyScriptTools.py?style=flat-square) | ![Forks](https://img.shields.io/github/forks/shervinbdndev/PyScriptTools.py?style=flat-square) | ![Issues](https://img.shields.io/github/issues/shervinbdndev/PyScriptTools.py?style=flat-square) | ![Pull Requests](https://img.shields.io/github/issues-pr/shervinbdndev/PyScriptTools.py?style=flat-square)
 | <a href="https://github.com/shervinbdndev/Finder">**Finder**</a> | **In Development** | [![made-with-flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://www.flutter.dev/) | ![Stars](https://img.shields.io/github/stars/shervinbdndev/Finder?style=flat-square) | ![Forks](https://img.shields.io/github/forks/shervinbdndev/Finder?style=flat-square) | ![Issues](https://img.shields.io/github/issues/shervinbdndev/Finder?style=flat-square) | ![Pull Requests](https://img.shields.io/github/issues-pr/shervinbdndev/Finder?style=flat-square)
