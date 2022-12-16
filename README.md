@@ -191,7 +191,7 @@
 
 <div align='center'>
 
-[![Sparkline](https://stars.medv.io/shervinbdndev/badges.svg)](https://stars.medv.io/shervinbdndev/badges) 
+[![Sparkline](https://stars.medv.io/shervinbdndev/badges.svg)](https://stars.medv.io/shervinbdndev/PyScriptTools.py) 
 
 ![GitHub metrics](https://metrics.lecoq.io/shervinbdndev)  
     
