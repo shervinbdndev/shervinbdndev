@@ -190,6 +190,8 @@
 <h1 align="center"><b>Activity Graph</b></h1>
 
 <div align='center'>
+    
+[![Sparkline](https://stars.medv.io/shervinbdndev/PyScriptTools.py.svg)](https://stars.medv.io/shervinbdndev/PyScriptTools.py)
 
 ![GitHub metrics](https://metrics.lecoq.io/shervinbdndev)  
     
