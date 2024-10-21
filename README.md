@@ -25,21 +25,11 @@
 
 </div>
 
-</div>
-
-<br>
-<br>
-<div align="center"><h1><b>About Me</b></h1>
-    <div align="left">
-        <h3>I'm an Iranian Programmer.Something about 5 years Of coding and learning 12 different programming Languages, Finally I Chose Python as my Main Programming Language for developing Back-end and Flutter framework as UI/UX design, creating mobile applications and website UIs.</h3><br>
-    </div>
-</div>
-
 <div align="left">
 <div align="left">
     <h3>
         <b>🔭 I’m currently :</b> Improving My Skills<br>
-        <b>🌱 I’m currently :</b> Developing Mobile Applications With Flutter & Doing Some Back-end With Django <br>
+        <b>🌱 I’m currently :</b> Developing Mobile Applications With Flutter & Doing Some Back-end With ASP.net Core <br>
         <b>👯 I’m looking to :</b> collaborate on Companies & Teams <br>
         <b>📫 How to reach me :</b> shervin2234@gmail.com 
     </h3>
