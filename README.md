@@ -122,6 +122,7 @@
 <h1 align="center"><b>Skills</b></h1>
 
 <img src="https://img.icons8.com/color/48/000000/python.png"  width="40" height="40"/>
+<img src"https://img.shields.io/badge/c%23-%23239120.svg" width="40" height="40">
 <img src="https://img.icons8.com/material/48/0C4B33/django.png"   width="40" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/flask.png"  width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"   width="40" height="40"/>
